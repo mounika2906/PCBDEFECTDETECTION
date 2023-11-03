@@ -1,10 +1,9 @@
-from pcbdefectsdetection.logger import logging
-from pcbdefectsdetection.exception import AppException
-import sys
+from pcbdefectsdetection.pipeline.training_pipeline import TrainPipeline
 
-try:
-    a = 3 / "s"
+obj = TrainPipeline()
+obj.run_pipeline()
 
-except Exception as e:
-    raise AppException(e, sys)
+
+
+
              
