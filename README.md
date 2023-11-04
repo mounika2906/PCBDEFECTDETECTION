@@ -74,7 +74,7 @@ open up you local host and port
 
 # Create ECR repo to store/save docker image
 ```bash
-- Save the URI: 566373416292.dkr.ecr.ap-south-1.amazonaws.com/waste
+- Save the URI: 932166928499.dkr.ecr.eu-north-1.amazonaws.com/pcb
 ``````
 ## Create EC2 machine (Ubuntu)
 ## Open EC2 and Install docker in EC2 Machine:
