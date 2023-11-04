@@ -25,3 +25,11 @@ class DataIngestionConfig:
     )
 
     data_download_url: str = DATA_DOWNLOAD_URL
+
+
+  
+
+
+
+
+  

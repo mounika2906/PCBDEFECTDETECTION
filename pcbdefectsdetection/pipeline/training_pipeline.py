@@ -2,15 +2,16 @@ import sys, os
 from pcbdefectsdetection.logger import logging
 from pcbdefectsdetection.exception import AppException
 from pcbdefectsdetection.components.data_ingestion import DataIngestion
-#from pcbdefectsdetection.components.data_validation import DataValidation
-#from pcbdefectsdetection.components.model_trainer import ModelTrainer
+
 
 
 from pcbdefectsdetection.entity.config_entity import (DataIngestionConfig)
+                                                      
 
 
 
 from pcbdefectsdetection.entity.artifacts_entity import (DataIngestionArtifact)
+                                                         
                                                     
                                     
 
@@ -45,10 +46,14 @@ class TrainPipeline:
             raise AppException(e, sys)
         
 
+        
+
     def run_pipeline(self) -> None:
         try:
             data_ingestion_artifact = self.start_data_ingestion()
             
+            
+    
 
         
         except Exception as e:

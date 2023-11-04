@@ -3,7 +3,7 @@ import sys
 import yaml
 import base64
 
-from pcbdefectsdetection import AppException
+from pcbdefectsdetection.exception import AppException
 from pcbdefectsdetection.logger import logging
 
 
