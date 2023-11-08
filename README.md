@@ -32,9 +32,13 @@ conda create -p venv python==3.9 -y
 ## documents
 
   1.[HLD](https://docs.google.com/document/d/1OS3zzAG1LO1a07mIAmsM9C_qeLKqbcPq/edit?usp=sharing&ouid=110561493789800648225&rtpof=true&sd=true)
+  
   2.[LLD](https://docs.google.com/document/d/1wmQfv0crz9z-KijJJ4ERBJ08BUUUA0PD/edit?usp=sharing&ouid=110561493789800648225&rtpof=true&sd=true)
+  
   3.[Demo Video](https://drive.google.com/file/d/1-ibVkFwmwXlTjuxB7NLigjc5gFJZlsfG/view?usp=sharing)
+  
   4.[linkdin post](https://www.linkedin.com/posts/mounika-avadutha-3592731aa_pcbprinted-circuit-board-fault-detection-activity-7127870306966278144-GoPO?utm_source=share&utm_medium=member_desktop)
+  
   5.[ppt](https://docs.google.com/presentation/d/1ItuVg0Lj_wDuIsszKcjCL0ypCAGTsyF2/edit?usp=sharing&ouid=110561493789800648225&rtpof=true&sd=true)
 
 
