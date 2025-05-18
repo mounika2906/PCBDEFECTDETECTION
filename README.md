@@ -41,6 +41,8 @@ conda create -p venv python==3.9 -y
   
   5.[ppt](https://docs.google.com/presentation/d/1ItuVg0Lj_wDuIsszKcjCL0ypCAGTsyF2/edit?usp=sharing&ouid=110561493789800648225&rtpof=true&sd=true)
 
+  6.[Certificate](https://drive.google.com/file/d/1L3KTVhYwQTBp0PLIKHOeMGeIyLV8giZU/view?usp=sharing)
+
 
 ## install the requirements
 ```bash
