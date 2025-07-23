@@ -1,7 +1,7 @@
 # PCBDEFECTDETECTION
 "PCB defect detection is the process of identifying and diagnosing defects or abnormalities in printed circuit boards to ensure their proper functioning."
 
-![pcb image.png](pcb%20image.png)
+![pcb image.png]()
 
 ###Software and Tools Requirements
 
